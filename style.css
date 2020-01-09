@@ -1,0 +1,95 @@
+.menu {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.menu a{
+    padding: 7px;
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    margin-top: 100px;
+   text-align: center;
+   border-radius: 50%;
+    
+}
+.ion-md-search{
+    position: relative;
+    left: 30px;
+}
+ input {
+       border: none;
+    border-radius: 50px 50px 50px 50px;
+    border-color: transparent;
+    box-shadow:1px 1px 2px 2px grey;
+   margin-top: 20px;
+    height: 37px;
+    width: 487px;
+    margin-bottom: 25px;    
+    
+
+
+}
+.ion-md-mic{
+    position: relative;
+    right: 30px;
+}
+.ap a{
+    text-decoration: none;
+    color: #5F6368;
+     margin: 3px;
+     padding: 10px;
+     background-color: #f2f2f2;
+     margin-top: 15px;
+}
+p{
+    text-align: center;
+}
+footer{
+    bottom: 0;
+      width: 100%;
+      height: 60px;
+      position: fixed;
+    
+}
+.haut {
+    text-indent: 10px;
+    background-color:#ececec;
+    height: 30px;
+    border-bottom: 3px solid #ececec;
+    width: 100%;
+   
+}
+.bas{
+    background-color: #ececec;
+    height: 30px;
+    width: 100%;
+}
+.ht a{
+    text-decoration: none;
+    align-content: flex-end;
+    align-items: center;
+    background-color: #ececec;
+}
+.bas-left{
+    float: left;
+
+}
+.bas-right {
+    float:right;
+    padding-right: 20px;
+}
+.bas-left a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.bas-right a{
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+}
+    
+    
